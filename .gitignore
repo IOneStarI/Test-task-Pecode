@@ -1,0 +1,17 @@
+# Mac OS DS_Store files.
+.DS_Store
+.favorites.json
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Ignore node_modules
+node_modules
+package-lock.json
+mochawesome-report
